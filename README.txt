@@ -1,4 +1,10 @@
 
+Solution to the EY Data Challenge in which @catyselman and @mradazoury finished Top 8 in Spain and < 10% worldwide.
+
+The data is not included in this repo please contact us if needed.
+
+Please keep in mind that the work was fairly split between @catyselman and @mradazoury and that the contributions graph do not reflect the distribution of the effort.
+
 Model development is spread out in 4 Python scripts and 1 Python notebook.
 
 All developed in Python 3.7.
